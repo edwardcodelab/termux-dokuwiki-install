@@ -79,7 +79,7 @@ sed -i 's/location \\~/location ~/' /data/data/com.termux/files/usr/etc/nginx/ng
 ```
 
 ```bash
-echo "Installation Complete! php-xml is now included."
+echo "Installation Complete!
 ```
 
 ---
