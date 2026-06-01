@@ -9,7 +9,7 @@ termux-setup-storage && pkg update && pkg upgrade -y && pkg install proot-distro
 
 ---
 
-### Step 2: After logging into Ubuntu, paste this full installation block
+### Step 2: After logging into Ubuntu, install php, nginx and dokuwiki
 
 ```bash
 apt update && apt upgrade -y
